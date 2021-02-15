@@ -16,7 +16,7 @@ Here you will find the notebooks that will help you settle the theory seen durin
 
 The notebooks are divided in 7 modules matching the corresponding book chapters:
 
-1. Machine Learning: Introduction [1_machine_learning_introduction](`1_machine_learning_introduction`)
+1. Machine Learning: Introduction [1_machine_learning_introduction](1_machine_learning_introduction)
 2. Supervised Learning: Classification (`2_supervised_learning_classification`)
 3. Supervised Learning: Regression and Combination of methods
     1. Regression (`3_1_supervised_learning_regression`)
