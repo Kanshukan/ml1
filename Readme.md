@@ -12,7 +12,7 @@
 
 Welcome to the official repository of the Machine Learning course in the Applied Data Science grade of the Universitat Oberta de Catalunya.
 
-Here you will find the notebooks that will help you settle the theory seen during the lectures. All the notebooks are 'ready to execute' in Google Colaboratory, so we encourage you to download the notebooks and upload them to your own Google Account. This will avoid conflicts with package versions or missing packages and also allow you to execute computationally expensive algorithms using Google Infraestructure (GPU/TPU).
+Here you will find the notebooks that will help you settle the theory seen during the lectures. All the notebooks are 'ready to execute' in Google Colaboratory, so we encourage you to download the notebooks and upload them to your own Google Account. This will avoid conflicts with package versions or missing packages and also allow you to execute computationally expensive algorithms using Google Infraestructure (GPU/TPU). You can find more information about Google Colab in `Colab_getting_started.md`).
 
 The notebooks are divided in 7 modules matching the corresponding book chapters:
 
