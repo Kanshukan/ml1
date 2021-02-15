@@ -17,14 +17,14 @@ Here you will find the notebooks that will help you settle the theory seen durin
 The notebooks are divided in 7 modules matching the corresponding book chapters:
 
 1. Machine Learning: Introduction [1_machine_learning_introduction](1_machine_learning_introduction)
-2. Supervised Learning: Classification (`2_supervised_learning_classification`)
+2. Supervised Learning: Classification [2_supervised_learning_classification](2_supervised_learning_classification)
 3. Supervised Learning: Regression and Combination of methods
-    1. Regression (`3_1_supervised_learning_regression`)
-    2. Combination of methods (`3_2_supervised_learning_combination_of_methods`)
-4. Neural Networks: Basics (`4_neural_networks_basics`)
-5. Neural Networks: Examples (`5_neural_networks_examples`)
-6. Reinforcement Learning (`6_reinforcement_learning`)
-7. Recommender Systems (`7_recommender_systems`)
+    1. Regression [3_1_supervised_learning_regression](3_1_supervised_learning_regression)
+    2. Combination of methods [3_2_supervised_learning_combination_of_methods](3_2_supervised_learning_combination_of_methods)
+4. Neural Networks: Basics [4_neural_networks_basics](4_neural_networks_basics)
+5. Neural Networks: Examples [5_neural_networks_examples](5_neural_networks_examples)
+6. Reinforcement Learning [6_reinforcement_learning](6_reinforcement_learning)
+7. Recommender Systems [7_recommender_systems](7_recommender_systems)
 
 Let's see the notebooks available in each module:
 
