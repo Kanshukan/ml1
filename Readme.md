@@ -77,8 +77,9 @@ Let's see the notebooks available in each module:
 ### 5. Neural Networks: Examples
 ```
 - 01_CNN_MNIST
-- 02_RNN_TSA
-- 03_RNN_Music
+- 02_CNN_Transfer_Learning
+- 03_RNN_TSA (Time Series Analysis)
+- 04_RNN_Music_generation
 ```
 
 ### 6. Reinforcement Learning
